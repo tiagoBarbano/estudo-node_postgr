@@ -1,11 +1,3 @@
-// @ts-nocheck
-/**
- * Arquivo: src/routes/product.routes.js
- * Descrição: arquivo responsável pelas rotas da api relacionado a classe 'Product'.
- * Data: 04/03/2020
- * Author Glaucia Lemos
- */
-
  const router = require('express-promise-router')();
  const productController = require('../controllers/product.controller');
  
